@@ -59,7 +59,7 @@ try:
         print()
         print(f' {Bl}𝐄𝐑𝐎𝐑𝐑🔴 {Y}: {R}Wrong password')
         
-        webbrowser.open("http://t.me/Fox_pass_50000Bot")
+        webbrowser.open("http://t.me/Text_fox50Bot")
         exit()
 except requests.exceptions.RequestException as e:
     print(f' {Bl}𝐄𝐑𝐎𝐑𝐑🔴 {Y}: {R}تحقق من الاتصال ب الانترنت')
